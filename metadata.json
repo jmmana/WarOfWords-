@@ -1,0 +1,6 @@
+{
+  "name": "English Clash 1v1 Arena",
+  "description": "Juego competitivo en tiempo real de aprendizaje de inglés para 2 jugadores con avatares reactivos, efectos de combate, power-ups y niveles CEFR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
